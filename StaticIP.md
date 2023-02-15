@@ -1,3 +1,6 @@
-# How to set up linux
+# How to set static ip adress in linux
 
-## dette er sånn man gjør det
+
+### See debian setup
+
+In that tutorial i explain how to set up the debian computer with root and sudo user.
